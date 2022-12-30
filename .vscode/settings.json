@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    }
+}
